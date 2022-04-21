@@ -4,9 +4,7 @@ body {
   margin: 0;
 }
 .toolbar ul {
-  display: flex;
-  list-style: none;
-  height: 80px;
+  display: flex;list-style: none;height: 80px;
   width: 383px;
   background: #3c3a39;
   justify-content: space-between;
