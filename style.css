@@ -59,7 +59,9 @@ body {
   position: absolute;
   left: 0;
   top: 80px;
+  
 }
+
 .introduction-name {
   font-family: "Crete Round", sans-serif;
   font-style: normal;
@@ -71,7 +73,9 @@ body {
   letter-spacing: 1px;
   color: #ff6b00;
   margin: 12px 0;
+  
 }
+
 .introduction-title {
   position: static;
   width: 327px;
@@ -86,6 +90,7 @@ body {
   align-items: center;
   color: #fff5e1;
 }
+
 .introduction-description {
   position:static;
   width: 327px;
@@ -102,6 +107,7 @@ body {
   margin-top: 12px;
   margin-bottom: 14px;
 }
+
 .bottom-nav ul {
   display: flex;
   list-style: none;
@@ -109,17 +115,21 @@ body {
   width: 360px;
   justify-content: space-between;
 }
+
 .social-icons {
   font-size: 25px;
   color: white;
 }
+
 .social-icons:hover,
 .social-icons:visited {
   font-size: 30px;
   color: rgba(131, 130, 130, 0.9);
 }
+
 .background-img {
   margin-top: -70px;
   height: 300px;
   width: auto;
 }
+
