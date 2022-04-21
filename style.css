@@ -3,10 +3,7 @@ body {
   font-family: "Roboto", sans-serif;
   margin: 0;
 }
-.toolbar ul {
-  display: flex;list-style: none;height: 80px;
-  width: 383px;
-  background: #3c3a39;
+.toolbar ul { display: flex;list-style: none;height: 80px; width: 383px; background: #3c3a39;
   justify-content: space-between;
   align-items: center;
   position: absolute;
